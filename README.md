@@ -1,0 +1,2 @@
+# -Evaluating-Bias-Transfer-Across-Indigenous-Cultural-Representations-Using-RoBERTa
+Analyzing bias in RoBERTa models fine-tuned on Canadian vs Nunavut parliamentary data. Uses WEAT scores, embedding analysis, and MLM benchmarking to reveal how training on Indigenous vs settler political discourse shapes AI representations of governance, rights, and social issues. Promotes equitable AI development.
